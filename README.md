@@ -1,8 +1,8 @@
-# ⚡SynapseCode - AI Assisted Code Editor with Real-Time Collaboration
+# AI Assisted Code Editor with Real-Time Collaboration
 
 ## Overview
 
-SynapseCode is a lightweight, AI-assisted code editor designed to empower developers with real-time multi-user collaboration and advanced AI-driven features. Built with a secure and intuitive workspace, SynapseCode not only supports live code editing and file management but also enhances productivity with AI-powered linting, auto-completion, documentation generation, and syntax correction.
+A lightweight, AI-assisted code editor designed to empower developers with real-time multi-user collaboration and advanced AI-driven features. Built with a secure and intuitive workspace, it supports live code editing and file management while enhancing productivity with AI-powered linting, auto-completion, documentation generation, and syntax correction.
 
 ## Problem Statement
 
@@ -12,7 +12,8 @@ Modern software development demands rapid collaboration and high-quality code. D
 - **Ensure organized workspace management:** Support both private and public workspaces with clear file/folder hierarchies.
 - **Automatically synchronize code, files, and user interactions:** Eliminate manual saving and reduce merge conflicts.
 
-SynapseCode meets these needs by integrating advanced AI capabilities with robust real-time collaboration, empowering teams to write, review, and maintain high-quality code efficiently.
+It meets these needs by integrating advanced AI capabilities with robust real-time collaboration, empowering teams to write, review, and maintain high-quality code efficiently.
+
 
 ## Solution Architecture
 
@@ -81,7 +82,7 @@ SynapseCode meets these needs by integrating advanced AI capabilities with robus
 
 ### 🤖 AI-Driven Enhancements
 - **Code Suggestions & Linting:**  
-  - Integrated with the Google Gemini API, SynapseCode delivers smart code completions and real-time error detection along with recommended fixes.  
+  - Integrated with the Google Gemini API, it delivers smart code completions and real-time error detection along with recommended fixes.
 - **Auto-Documentation & Code Correction:**  
   - AI-generated documentation is available for complex functions, helping to maintain clear and well-documented code.  
   - Real-time code correction detects syntax errors as you type, automatically suggesting fixes to streamline development.  
